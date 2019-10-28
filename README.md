@@ -4,3 +4,4 @@ This is the first part of the Conversational AI Project, which involves the task
 
 Here're some brief overview/analysis on the top 50 common amenities in Ann Arbor apartments.
 
+![Top_50_Amenities_in_Ann_Arbor_Area](Analysis.png)
